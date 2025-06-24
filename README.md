@@ -87,3 +87,7 @@ Flask-сервер предоставляет простой API для дост
   }
 ]
 ```
+
+## Авторы
+- [@lunyamq](https://github.com/lunyamq)
+- [@UsachevDev](https://github.com/UsachevDev)
